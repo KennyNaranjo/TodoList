@@ -3,7 +3,7 @@ Content-Type: application/json
 
 
       {
-      "item": "This is the first todo item"
+      "item": "This is the first item"
       }
 
 
@@ -22,7 +22,7 @@ Content-Type: application/json
 
 
       {
-      "item": "This is the first todo item updated"
+      "item": "This is the first item updated"
       }
 
 
